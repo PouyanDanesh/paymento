@@ -2,7 +2,7 @@
 
 ![Home Image](header.jpg)
 
-### To consolidate support across various channels, we have currently turned off the feature of GitHub issues. Please visit https://www.paypal.com/support to submit your request or ask questions within our community forum.
+### To consolidate support across various channels, we have currently turned off the feature of GitHub issues. Please visit https://paymento.io/contact-us/ to submit your request or ask questions within our community forum.
 
 __Welcome to Paymento PHP SDK__. This repository contains Paymento's PHP SDK and samples for [v1/checkout/orders](https://docs.paymento.io) APIs.
 
